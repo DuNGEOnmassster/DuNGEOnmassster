@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 This is Norman Zheng, a third-year student majoring in Artificial Intelligence @ NPU.
+
+🌱 I study Computer Vision and Machine Learning, I am particularly interested in Image Reconstruction(especially techs that generate pixels from pixels such as GAN & VAE & Diffusion), Visual Perception, and 3D generation.
+
+📫 I use Github as a repository for my coursework, projects and maybe source codes for papers in the future. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
+
+😄 Feel free to email me if there is any possible conversation.
+
+⚡ Keep learning and coding!
+
 ![NormanZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuNGEOnmassster&show_icons=true)
 
 <!--
