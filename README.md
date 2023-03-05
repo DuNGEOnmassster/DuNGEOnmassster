@@ -4,7 +4,7 @@
 
 🌱 I study Computer Vision and Machine Learning, I am particularly interested in Image Reconstruction(especially techs that generate pixels from pixels such as GAN & VAE & Diffusion), Visual Perception, and 3D generation.
 
-📫 I use Github as a repository for my coursework, projects and maybe source codes for papers in the future. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
+📫 I use Github as a repository for my coursework, projects and source codes for upcoming papers in the future. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
 
 😄 Feel free to email me if there is any possible conversation.
 
