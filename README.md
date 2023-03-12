@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 This is Norman Zheng, a third-year student majoring in Artificial Intelligence @ NPU.
+🔭 This is Norman Zheng, a third-year undergraduate student majoring in Artificial Intelligence @ NPU.
 
 🌱 I study Computer Vision and Machine Learning, I am particularly interested in Image Reconstruction(especially techs that generate pixels from pixels such as GAN & VAE & Diffusion), Visual Perception, and 3D generation.
 
