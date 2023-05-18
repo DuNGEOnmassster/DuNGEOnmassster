@@ -4,7 +4,7 @@
 
 🌱 I study Computer Vision and Machine Learning, I am particularly interested in Visual Generation(especially stochastic probabilistic methods such as GAN & VAE & Diffusion) and Visual Perception. My long-term research goal is to bridge the fields of Generation and Perception, and build intelligent vision system that can comprehend and generate everything like reality.
 
-📫 I use Github as a repository for my coursework, projects and source codes for upcoming papers in the future. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
+📫 I use Github as a repository for my coursework, projects and source codes for upcoming papers. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
 
 😄 Feel free to email me if there is any possible conversation.
 
