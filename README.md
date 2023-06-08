@@ -10,11 +10,24 @@
 
 ⚡ Keep learning and coding!
 
-<!-- ![Norman's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuNGEOnmassster&show_icons=true) -->
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuNGEOnmassster&show_icons=true)
 
-[![Norman Zheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuNGEOnmassster)]()
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuNGEOnmassster&layout=compact)](https://github.com/Christmas/github-readme-stats) -->
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/DuNGEOnmassster)
+<!-- 
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/DuNGEOnmassster) -->
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=DuNGEOnmassster&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) -->
+
+<!-- profile-3d-contrib 3D贡献图-->
+<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" /> -->
 
 <!--
 **DuNGEOnmassster/DuNGEOnmassster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
