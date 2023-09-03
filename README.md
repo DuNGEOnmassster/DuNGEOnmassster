@@ -2,13 +2,13 @@
 
 🔭 This is Norman Zheng, a third-year undergraduate student majoring in Artificial Intelligence @ NPU.
 
-🌱 I study Computer Vision and Machine Learning, I am particularly interested in Visual Generation(especially stochastic probabilistic methods such as GAN & VAE & Diffusion) and Visual Perception. My long-term research goal is to build a human-like intelligent vision system that can comprehend everything and generate reactions like reality.
+🌱 I study Computer Vision and Machine Learning, I am particularly interested in Visual Generation(especially stochastic probabilistic methods such as GAN & VAE & Diffusion) and Visual Perception. My long-term research goal is to build a human-like intelligent vision system that can comprehend everything and generate reactions to interactions like reality.
 
-🤔 I am learning LLM currently and trying to use LLM for more reliable and Fine-grained vision generative task in my recent paper and project.
+🤔 I am learning LLMs currently and trying to use LLMs for more Reliable and Universal vision-generative tasks in my recent paper and project.
 
 📫 I use Github as a repository for my coursework, projects and source codes for upcoming papers. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
 
-😄 Feel free to email me if there is any possible conversation.
+😄 Feel free to email me if there is any possibility of a conversation.
 
 ⚡ Keep learning and coding!
 
