@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 This is Norman Zheng, a third-year undergraduate student majoring in Artificial Intelligence @ NPU.
+🔭 This is Mingzhe Zheng, a final-year undergraduate student majoring in Artificial Intelligence @ NPU.
 
-🌱 I study Computer Vision and Machine Learning, I am particularly interested in Visual Generation(especially stochastic probabilistic methods such as GAN & VAE & Diffusion) and Visual Perception. My long-term research goal is to build a human-like trustworthy vision system that can comprehend everything and generate reactions to interactions like reality.
+🌱 I study Computer Vision and Machine Learning, I am particularly interested in Visual Generation(especially stochastic probabilistic methods such as GAN & VAE & Diffusion) and Visual Perception, focusing on Human-centric visual understanding and generation. My long-term research goal is to create a realistic virtual human equipped with a trustworthy vision system as the brain that can comprehend the surrounding environment and generate reactions (facial-level, body-level, etc.) to interactions like reality.
 
 🤔 I am learning LLMs currently and trying to use LLMs for more Reliable and Universal vision-generative tasks in my recent paper and project.
 
