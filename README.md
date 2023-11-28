@@ -2,9 +2,9 @@
 
 🔭 This is Mingzhe Zheng, a final-year undergraduate student majoring in Artificial Intelligence @ NPU.
 
-🌱 I study Computer Vision and Machine Learning, I am particularly interested in Visual Generation(especially stochastic probabilistic methods such as GAN & VAE & Diffusion) and Visual Perception, focusing on Human-centric visual understanding and virtual human generation. My long-term research goal is to create a realistic virtual human equipped with a trustworthy "brain" that can comprehend the surrounding environment and generate reactions (appearance-level, motion-level, speaking-level, etc.) to interactions like reality.
+🌱 My primary interests are computer vision, machine learning, and multimodality, especially in the direction of generative models (especially GAN & Diffusion). I aim to delve into efficient visual generation algorithms from a theoretical perspective and explore valuable applications of human-centric AIGC. My long-term research goal is to create virtual humans equipped with a trustworthy "brain" that can comprehend the surrounding environment and generate reactions (appearance-level, motion-level, speaking-level, etc.) to real-life interactions.
 
-🤔 I am learning LLMs currently and trying to use LLMs for more Reliable and Universal vision-generative tasks in my recent paper and project.
+🤔 I am learning LLMs currently and trying to use LLMs for visual-generative tasks in my recent paper and project.
 
 📫 I use Github as a repository for my coursework, projects and source codes for upcoming papers. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
 
