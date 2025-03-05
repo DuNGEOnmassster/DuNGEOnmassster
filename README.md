@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 This is Mingzhe Zheng, incoming 1st year PhD student @ HKUST, I'm current a researcher @ EverlynLab
+🔭 This is Mingzhe Zheng, 1st year PhD student @ HKUST, I'm current a researcher @ EverlynLab
 
 🌱 My primary interests are computer vision, machine learning, and multimodality, especially in the direction of generative models (especially GAN & Diffusion). I aim to delve into efficient visual generation algorithms from a theoretical perspective and explore valuable applications of human-centric AIGC. My long-term research goal is to create virtual humans equipped with a trustworthy "brain" that can comprehend the surrounding environment and generate reactions (appearance-level, motion-level, speaking-level, etc.) to real-life interactions.
 
