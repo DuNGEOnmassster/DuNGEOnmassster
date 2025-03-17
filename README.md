@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 This is Mingzhe Zheng, 1st year PhD student @ HKUST, I'm current a researcher @ EverlynLab
+🔭 This is Mingzhe Zheng, a first-year PhD student at the Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. Harry Yang and Prof. Qifeng Chen. Previously, I received my B.Eng. with outstanding honor at Northwestern Polytechnical University (NPU) in 2024. Currently, I am a research intern at Everlyn AI. I was also fortunate to have an internship at HeyGen.
 
-🌱 My primary interests are computer vision, machine learning, and multimodality, especially in the direction of generative models (especially GAN & Diffusion). I aim to delve into efficient visual generation algorithms from a theoretical perspective and explore valuable applications of human-centric AIGC. My long-term research goal is to create virtual humans equipped with a trustworthy "brain" that can comprehend the surrounding environment and generate reactions (appearance-level, motion-level, speaking-level, etc.) to real-life interactions.
+🌱 My primary interests are computer vision, machine learning, and multimodality, especially in the direction of generative models (GAN & Diffusion & DiT & AutoRegressive). I aim to delve into efficient multimodal visual generation algorithms from both theoretical and practical perspectives and explore valuable applications of human-centric AIGC (image/video/3D). My long-term research goal is to create virtual humans with a trustworthy "brain" that can comprehend the surrounding environment and generate reactions (appearance level, motion level, speaking level, etc.) to real-life interactions.
 
-🤔 I am learning LLMs currently and trying to use LLMs for visual-generative tasks in my recent paper and project.
+🤔 I am also interested in Agents and convinced that appropriate usage of LLMs can benefits marverlous visual generation tasks in the era of Large Basic Models.
 
 📫 I use Github as a repository for my coursework, projects and source codes for upcoming papers. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
 
