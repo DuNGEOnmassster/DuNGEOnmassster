@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🔭 This is Mingzhe Zheng, a first-year PhD student at the Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. Harry Yang and Prof. Qifeng Chen. Previously, I received my B.Eng. with outstanding honor at Northwestern Polytechnical University (NPU) in 2024. Currently, I am a research intern at Tencent Hunyuan. I was also fortunate to have an internship at HeyGen and Everlyn.
+🔭 This is Mingzhe Zheng, a second-year PhD student at the Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. Harry Yang and Prof. Qifeng Chen. Previously, I received my B.Eng. with outstanding honors at Northwestern Polytechnical University (NPU) in 2024. Currently, I am a research intern at Tencent Hunyuan (Qingyun Top Talent), focusing on pre-training and post-training for large-scale video foundational models. I was also fortunate to have an internship at HeyGen and Everlyn.
 
-🌱 My primary interests are computer vision, machine learning, and multimodality, especially in the direction of generative models (GAN & Diffusion & DiT & AutoRegressive). I aim to delve into efficient multimodal visual generation algorithms from both theoretical and practical perspectives and explore valuable applications of human-centric AIGC (image/video/3D). My long-term research goal is to create virtual humans with a trustworthy "brain" that can comprehend their surrounding environment and generate reactions (appearance level, motion level, speaking level, etc.) to real-life interactions, then produce videos similar to how directors create films in reality, titled "AI Movie Industry."
+🌱 My primary interests are computer vision and movie creation, especially in the direction of generative models. I aim to delve into efficient multimodal visual generation algorithms from both theoretical and practical perspectives and explore valuable applications of human-centric AIGC (image/video/3D). My long-term research goal is to create virtual humans with a trustworthy "brain" that can comprehend their surrounding environment and generate reactions to real-life interactions, then produce videos similar to how directors make films, titled "AI Movie Industry."
 
 🤔 I am also interested in Agents and convinced that appropriate usage of LLMs can benefits marverlous visual generation tasks in the era of Large Basic Models.
 
-📫 I use Github as a repository for my coursework, projects and source codes for upcoming papers. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
+📫 I use Github as a repository for my coursework, projects and source codes for papers. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
 
 😄 Feel free to email me if there is any possibility of a conversation.
 
