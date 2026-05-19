@@ -1,4 +1,4 @@
-<img width="432" height="55" alt="image" src="https://github.com/user-attachments/assets/97aed4db-44cc-4fbb-985a-c790669aa96c" />### Hi there 👋
+### Hi there 👋
 
 🔭 This is Mingzhe Zheng, a second-year PhD student at the Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. Harry Yang and Prof. Qifeng Chen. Previously, I received my B.Eng. with outstanding honors at Northwestern Polytechnical University (NPU) in 2024. Currently, I am a research intern at Tencent Hunyuan (Qingyun Top Talent), focusing on pre-training and post-training for large-scale video foundational models. I was also fortunate to have an internship at HeyGen and Everlyn.
 
