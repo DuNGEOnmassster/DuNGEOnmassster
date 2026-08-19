@@ -2,12 +2,11 @@
 
 🔭 This is Mingzhe Zheng, a second-year PhD student at the Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. Harry Yang and Prof. Qifeng Chen. Previously, I received my B.Eng. with outstanding honors at Northwestern Polytechnical University (NPU) in 2024. Currently, I am a research intern at Tencent Hunyuan (Qingyun Top Talent), focusing on pre-training and post-training for large-scale video foundational models. I was also fortunate to have an internship at HeyGen and Everlyn.
 
-🌱 My primary interests are computer vision and movie creation, especially in the direction of generative models. I aim to delve into efficient multimodal visual generation algorithms from both theoretical and practical perspectives and explore valuable applications of human-centric AIGC (image/video/3D). My long-term research goal is to create cinematic-level visual content with a trustworthy "brain" that can comprehend the surrounding environment and generate reactions to real-life interactions, then produce videos similar to how directors make films, titled "AI Movie Industry."
+🌱 My primary interests are computer vision and movie creation, especially in the direction of generative models. I aim to delve into efficient multimodal visual generation algorithms from both theoretical and practical perspectives and explore valuable applications of human-centric AIGC (image/video/3D). My long-term research goal is to create a visual-centric agentic system with a self-evolving "brain" that can comprehend the environment and generate reactions to real-life interactions, then produce cinematic-level visual content similar to how human directors make films, titled "AI Movie Industry."
 
+🤔 I believe multimodal AI is naturally progressing from end-to-end generation toward interactive systems. In parallel, advances in long-horizon agentic reinforcement learning will extend LLM-based agents beyond human-designed office tasks into interactive physical environments. These two research directions will ultimately converge toward Physical AI, leading to a still underexplored area that I am particularly interested in: Agentic World Models.
 
-🤔 I am also interested in Agents and convinced that appropriate usage of LLMs can benefits marverlous visual generation tasks in the era of Large-scale Foundational Models.
-
-📫 I use Github as a repository for my coursework, projects and source codes for papers. By the way, I enjoy staring and following genius minds(mainly focus on splendid works in AIGC)
+📫 I use Github as a repository for my coursework, projects and source codes for papers. By the way, I enjoy staring and following genius minds
 
 😄 Feel free to email me if there is any possibility of a conversation.
 
